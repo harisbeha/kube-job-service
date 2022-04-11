@@ -1,0 +1,6 @@
+project.ext {
+    name = 'cielo24.python.microservices.transcode-dispatcher'
+    deis_app_name = 'transcode-dispatcher'
+    cluster = 'core'
+}
+apply from: '../_build/rules/deis.gradle'

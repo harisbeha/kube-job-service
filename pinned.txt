@@ -1,0 +1,2 @@
+cielo24.python.standard-microservice-environment.django==1.0.38
+kubernetes==5.0.0
